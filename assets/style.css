@@ -1,0 +1,19 @@
+body {
+    padding-top: 54px;
+  };
+
+.page-footer {
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: #666666;
+color: #777777;
+text-align: center;
+};
+
+@media (min-width: 992px) {
+    body {
+      padding-top: 56px;
+    };
+};
+
